@@ -15,7 +15,7 @@ const LibrarySong = ({song,currentSong,setCurrentSong,id,songs,audioRef,isPlayin
        }
        }
       }); 
-      console.log(newSongDate);
+  
       setSongs(newSongDate);
       const currentSong =newSongDate.filter(state => state.id===id);
       setCurrentSong(currentSong[0]);
