@@ -10,6 +10,8 @@ Musikty is music player for displaying your favourite musics
 
 3-managing react state
 
+4-applying on scss
+
 # Site_URL
 
 https://musikty.netlify.app/
