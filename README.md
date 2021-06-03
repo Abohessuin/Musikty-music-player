@@ -14,3 +14,4 @@ Musikty is music player for displaying your favourite musics
 
 https://musikty.netlify.app/
 
+![Alt text](./5.png) 
